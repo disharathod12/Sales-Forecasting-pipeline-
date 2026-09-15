@@ -56,12 +56,4 @@ This project focuses on forecasting retail sales using time series analysis and 
 
 ---
 
-## 📬 Connect with Me
-
-Made with ❤️ by Rishita Prajapati  
-- [Instagram](https://www.instagram.com/_pavitra_rishta?igsh=NmI2bmQ0bmJzNWdp&utm_source=qr)  
-- [LinkedIn](https://www.linkedin.com/in/rishita-prajapati-5b843b255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-
----
-
-Thank you for visiting! Feel free to reach out for collaborations or questions.
+Thank you for visiting!
